@@ -8,7 +8,7 @@ Clone this repo:
     - npx cypress open
     - cypress will open. Upper right click on Electron 93 for Browser
       - then click on Boomtown_spec.js
-    - the two challenge will run. 
+    - the two challenges will run. 
 
 
 File location cypress/integration/boomtown_spec.js  
